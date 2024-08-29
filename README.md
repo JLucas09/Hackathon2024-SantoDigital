@@ -1,1 +1,1 @@
-# Hackathon2024-SantoDigital
+# Hackathon - Santo Digital

@@ -1,4 +1,4 @@
--- Considerando a  quantidade do ano todo de 2017
+-- Considerando a quantidade do ano todo de 2017
 
 select c.customerkey as ID, c.firstname, count(s.customerkey) as total_order from customers c
 join sales s on s.customerkey = c.customerkey
